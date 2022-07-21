@@ -3,4 +3,5 @@ echo "$whoami"
 
 echo "the currently logged in user is : $(whoami)"
 
-
+echo "good job
+"
