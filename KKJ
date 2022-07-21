@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "$whoami"
+
+echo "the currently logged in user is : $(whoami)"
+
+
